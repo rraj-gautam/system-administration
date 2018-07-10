@@ -6,4 +6,4 @@ STEPS TO RUN SCRIPT:
 
 WHERE TO RUN WHICH SCRIPT FILES:
 1) script_nginx.sh: at two webserver centos
-2) script_haproxy.sh, script_testinghaproxy.sh & script_keepalived.sh : at two loadbalancer centos
+2) script_haproxy.sh, script_starttestinghaproxy.sh & script_keepalived.sh : at two loadbalancer centos
